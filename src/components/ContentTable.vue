@@ -158,14 +158,6 @@ export default {
           protein: 4.9,
           iron: '22%',
         },
-        {
-          name: 'KitKat',
-          calories: 518,
-          fat: 26.0,
-          carbs: 65,
-          protein: 7,
-          iron: '6%',
-        },
       ],
     }
   },
